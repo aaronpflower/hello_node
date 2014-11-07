@@ -1,0 +1,25 @@
+{
+  "name": "hello_node",
+  "version": "1.0.0",
+  "description": "Test app with express bower jquery bootstrap and mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronpflower/hello_node.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "bower"
+  ],
+  "author": "Aaron Flower",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronpflower/hello_node/issues"
+  },
+  "homepage": "https://github.com/aaronpflower/hello_node",
+  "dependencies": {}
+}
